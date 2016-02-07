@@ -15,7 +15,7 @@ Basically, I setup a theoretical classroom with 100 students, with the marks com
 50-59                       Good
 45-49                       Very Fair
 40-45                       Fair
-Below 45                    Poor 
+0-45                        Poor 
 --------------------------------------
 --------------------------------------
 
