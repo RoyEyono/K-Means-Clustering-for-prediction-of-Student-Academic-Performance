@@ -15,11 +15,12 @@ Basically, I setup a theoretical classroom with 100 students, with the marks com
 50-59                       Good
 45-49                       Very Fair
 40-45                       Fair
-0-45                        Poor 
+Below 45                    Poor 
+
 --------------------------------------
 --------------------------------------
 
-The numbers represent the overall performance of each cluster, the formula to calculating the overall performance of a cluster can be found on the paper, which I have attached to this repository.
+The numbers represent the overall performance of each cluster, the formula to calculating the overall performance of a cluster can be found on the paper.
 
 Link to the implementation of the K-Means Algorithm: http://www.dataonfocus.com/k-means-clustering-java-code/
 Link to Oyelade,Oladipupo and Obagbuwa's paper: http://arxiv.org/ftp/arxiv/papers/1002/1002.2425.pdf
