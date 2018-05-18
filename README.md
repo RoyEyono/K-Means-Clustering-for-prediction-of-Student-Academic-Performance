@@ -25,5 +25,3 @@ The numbers represent the overall performance of each cluster, the formula to ca
 Link to the implementation of the K-Means Algorithm: http://www.dataonfocus.com/k-means-clustering-java-code/
 Link to Oyelade,Oladipupo and Obagbuwa's paper: http://arxiv.org/ftp/arxiv/papers/1002/1002.2425.pdf
 
-Feel free to email me, if there are any errors or suggestions, it would be greatly appreciated to get some feedback!
-Email: royeyono@yahoo.com
